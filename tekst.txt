@@ -28,3 +28,23 @@
 2019-08-08  21:15               690 tekst.txt
                1 plik(¢w)                690 bajt¢w
                2 katalog(¢w)  123ÿ586ÿ564ÿ096 bajt¢w wolnych
+ Wolumin w stacji E to Nowy
+ Numer seryjny woluminu: 2202-0504
+
+ Katalog: e:\GIT_REPOSITORY_LOCAL
+
+2019-08-08  18:33    <DIR>          .
+2019-08-08  18:33    <DIR>          ..
+2019-08-08  21:24             1ÿ035 tekst.txt
+               1 plik(¢w)              1ÿ035 bajt¢w
+               2 katalog(¢w)  123ÿ586ÿ560ÿ000 bajt¢w wolnych
+ Wolumin w stacji E to Nowy
+ Numer seryjny woluminu: 2202-0504
+
+ Katalog: e:\GIT_REPOSITORY_LOCAL
+
+2019-08-08  18:33    <DIR>          .
+2019-08-08  18:33    <DIR>          ..
+2019-08-08  21:27             1ÿ380 tekst.txt
+               1 plik(¢w)              1ÿ380 bajt¢w
+               2 katalog(¢w)  123ÿ586ÿ560ÿ000 bajt¢w wolnych
