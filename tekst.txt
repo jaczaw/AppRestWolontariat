@@ -1,0 +1,20 @@
+ Wolumin w stacji E to Nowy
+ Numer seryjny woluminu: 2202-0504
+
+ Katalog: e:\GIT_REPOSITORY_LOCAL
+
+2019-08-08  18:33    <DIR>          .
+2019-08-08  18:33    <DIR>          ..
+2019-08-08  18:33                 0 tekst.txt
+               1 plik(¢w)                  0 bajt¢w
+               2 katalog(¢w)  123ÿ587ÿ158ÿ016 bajt¢w wolnych
+ Wolumin w stacji E to Nowy
+ Numer seryjny woluminu: 2202-0504
+
+ Katalog: e:\GIT_REPOSITORY_LOCAL
+
+2019-08-08  18:33    <DIR>          .
+2019-08-08  18:33    <DIR>          ..
+2019-08-08  18:33               345 tekst.txt
+               1 plik(¢w)                345 bajt¢w
+               2 katalog(¢w)  123ÿ587ÿ096ÿ576 bajt¢w wolnych
