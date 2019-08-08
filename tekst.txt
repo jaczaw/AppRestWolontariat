@@ -48,3 +48,14 @@
 2019-08-08  21:27             1ÿ380 tekst.txt
                1 plik(¢w)              1ÿ380 bajt¢w
                2 katalog(¢w)  123ÿ586ÿ560ÿ000 bajt¢w wolnych
+ Wolumin w stacji E to Nowy
+ Numer seryjny woluminu: 2202-0504
+
+ Katalog: e:\GIT_REPOSITORY_LOCAL
+
+2019-08-08  18:33    <DIR>          .
+2019-08-08  18:33    <DIR>          ..
+2019-08-08  21:27             1ÿ725 tekst.txt
+               1 plik(¢w)              1ÿ725 bajt¢w
+               2 katalog(¢w)  123ÿ586ÿ551ÿ808 bajt¢w wolnych
+"To jest branch DEV"
