@@ -1,0 +1,3 @@
+LICENSE
+plik1.txt
+plik3.txt
