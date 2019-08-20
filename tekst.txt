@@ -60,3 +60,5 @@
                2 katalog(¢w)  123ÿ586ÿ551ÿ808 bajt¢w wolnych
 "To jest branch DEV"
 "To jest branch DEV2"
+
+Nowy
